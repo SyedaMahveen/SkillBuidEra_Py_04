@@ -75,3 +75,4 @@ Voting systems are used to conduct elections securely and efficiently. This proj
  ## Output
 
  <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/fed5410d-b681-42a9-ad37-bda982851f5c" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/cd5b152f-0f31-41ad-9f51-4d00c85e6c1b" />
