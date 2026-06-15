@@ -72,3 +72,6 @@ python voting_system.py
 
 Voting systems are used to conduct elections securely and efficiently. This project demonstrates the core concepts behind digital voting systems and election management software.
 
+ ## Output
+
+ <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/fed5410d-b681-42a9-ad37-bda982851f5c" />
