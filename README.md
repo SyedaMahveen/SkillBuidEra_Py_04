@@ -33,7 +33,7 @@ This project demonstrates user authentication, data validation, vote collection,
 * Real-time result display
 * Menu-driven interface
 
----
+
 
 ## Technologies Used
 
@@ -44,16 +44,6 @@ This project demonstrates user authentication, data validation, vote collection,
 
 
 
-## How to Run
-
-1. Install Python 3.
-2. Download or clone the repository.
-3. Open Terminal or Command Prompt.
-4. Run:
-
-python voting_system.py
-
-5. Register voters, cast votes, and view results.
 
 
 
